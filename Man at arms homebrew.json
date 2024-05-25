@@ -1,0 +1,45 @@
+"_meta": {
+    "sources": [
+        {
+            "json": "ANDYBREW",
+            "abbreviation": "ANDY",
+            "full": "Man-at-Arms Variant",
+            "authors": [
+                "Monticroa"
+            ],
+            "convertedBy": [
+                "Monticroa"
+            ],
+            "version": "1.0",
+            "url": "https://docs.google.com/document/d/1s08Jky8JdTpw2llGwRkelAHDvhiqDfYQ-8qyzo-KZGk/edit?usp=sharing",
+            "targetSchema": "1.0"
+        }
+    ],
+    "dateAdded": 0,
+    "dateLastModified": 0
+},
+"optionalfeature": [
+    {
+        "name": "Battle Trance",
+        "source": "ANDYBREW",
+        "page": 0,
+        "featureType": [
+            "OTH"
+        ],
+	"prequisite": [
+		{
+			"level": {
+				"level": 1,
+				"class": {
+					"name": "Barabarian",
+					"source": "PHB",
+					"visible": true
+				}
+			}
+		}
+	],
+        "entries": [
+            "You enter a state of extreme focus in battle.\n\nOn your turn, you can enter a trance as a bonus action.\nWhile in trance, you gain the following benefits if you aren't wearing heavy armor:\n- You have advantage on Strength checks and Strength saving throws.\n- When you make a weapon attack, you may add your Proficiency bonus to the damage roll.\n- You have resistance to bludgeoning, piercing, and slashing damage.\n- Your Superiority Dice increase by one die size.\n- If you are able to cast spells, you can't cast them or concentrate on them while in trance\n\nYour trance lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your trance on your turn as a bonus action.\n\nOnce you have entered trance the maximum number of times for your Barbarian level, you must finish a long rest before you can trance again. You may enter trance 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th."
+        ]
+    }
+]
